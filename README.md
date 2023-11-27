@@ -1,4 +1,4 @@
-# Wineo-clock.github.io
+# Wineoclock.github.io
 It is an Online Wine Store in progress.
 This is a beta version of the store and I keep working at it as I learn more in the web development field. 
 It will involve more complex codes once I learn Java scrip and React.
