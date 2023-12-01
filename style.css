@@ -58,3 +58,18 @@ body {
     margin-right: auto;
     width: 20%;
   }
+  p.copyrights{
+    font-size: 14px;
+    color: darkred; 
+  }
+  p.terms{
+    font-size: 14px;
+    color: darkred;
+  }
+  .socialmedia{
+    text-align: center;
+    word-spacing: 100px;
+  }
+  menu{
+    text-align: left;
+  }
