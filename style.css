@@ -1,37 +1,46 @@
 body {
     background-color: burlywood;
   }
+
   h1 { color: Darkred;
     font-family: Arial ;
     text-align: center;
   }
-  h2 { color: whitesmoke;
+
+  h2 { color: darkred;
     font-family: Arial;
     text-align: Center;
   }
+   
   h3 {
-    color:Darkred;
+    color:darkred;
     font-family: Arial;
-    font-size: 16px;
+    font-size: 18px;
     text-align: justify;
+
   }
+
   h4{
-    color: Darkred;
+    color: darkred;
     font-family: Arial;
     font-size: 18px;
   }
+
   p{
-    color: whitesmoke;
+    color: darkred;
     font-family: Arial;
     font-size: 30px;
     text-align: center;
   }
+
+  
   .All{
     Color: Black;
   }
   .biggestimg{
     image-orientation: from-image;
   }
+
   .Redwine{
     color: Black;
   }
@@ -42,6 +51,7 @@ body {
     text-align: Center;
     font-size: 40px;
   }
+  
   .center {
     display: block;
     margin-left: auto;
@@ -62,4 +72,20 @@ body {
   }
   menu{
     text-align: left;
+  }
+  .embark{
+    text-align: center;
+  }
+  .shopping{
+    text-align: center;
+  }
+  a{
+    color: blue;
+    cursor: pointer;
+  }
+  a:hover{
+    color: orangered;
+  }
+  button{
+    background-color: whitesmoke;
   }
